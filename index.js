@@ -1,11 +1,11 @@
 const numbers = [1,2,3,4];
 
 
-//End
-//const last = numbers.pop();
+// End
+const last = numbers.pop();
 
 // // Beginning 
-// const first = numbers.shift();
+const first = numbers.shift();
 
 
 // Middle 
@@ -13,6 +13,8 @@ const numbers = [1,2,3,4];
 numbers. splice(2,1)
 
 console.log(numbers);
+
+
 
 
 
