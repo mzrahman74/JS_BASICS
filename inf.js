@@ -9,7 +9,7 @@ function myFunction(){
 }
 
 let x,y, z;
-x=15;
+x=16;
 y=10;
 z=x+y;
 
